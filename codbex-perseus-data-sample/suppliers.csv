@@ -1,0 +1,51 @@
+SUPPLIER_ID,SUPPLIER_NAME,SUPPLIER_EMAIL,SUPPLIER_PHONE,SUPPLIER_ADDRESS,SUPPLIER_POSTCODE,SUPPLIER_CITY,SUPPLIER_COUNTRY,SUPPLIER_VATNO,SUPPLIER_IBAN,SUPPLIER_SWIFT,SUPPLIER_BANK
+1,ABC Suppliers,abc@example.com,+1234567890,123 Main St,12345,Anytown,USA,US123456789,US12345678901234567890,SWIFT123,Bank of America
+2,XYZ Imports,xyz@example.com,+9876543210,456 Oak St,54321,Sometown,Canada,CA987654321,CAN98765432109876543210,SWIFT456,Toronto-Dominion Bank
+3,Global Distributors,info@globaldist.com,+1122334455,789 Pine St,67890,Everycity,UK,GB123456789,GB12345678901234567890,SWIFT789,NatWest
+4,Trade Express,sales@tradeexpress.com,+4455667788,321 Elm St,45678,Nowhere,Germany,DE987654321,DE98765432109876543210,SWIFT321,Deutsche Bank
+5,Supply Solutions,support@suppysol.com,+9988776655,654 Birch St,76543,Somewhere,France,FR123456789,FR12345678901234567890,SWIFT654,BNP Paribas
+6,Infinite Imports,infinite@example.com,+1122334455,987 Maple St,23456,Anyplace,Spain,ES987654321,ES98765432109876543210,SWIFT987,Santander
+7,Global Trade,info@globaltrade.com,+1122334455,234 Cedar St,78901,Everytown,Italy,IT123456789,IT12345678901234567890,SWIFT234,UniCredit
+8,Harmony Suppliers,contact@harmonysuppliers.com,+1122334455,876 Pine St,89012,Somewhereelse,Japan,JP987654321,JP98765432109876543210,SWIFT876,Mizuho Bank
+9,Unity Traders,sales@unitytraders.com,+1122334455,543 Oak St,90123,Anyplaceelse,Australia,AU123456789,AU12345678901234567890,SWIFT543,Commonwealth Bank
+10,Pacific Exports,info@pacificexports.com,+1122334455,678 Birch St,21098,Nowheretown,New Zealand,NZ987654321,NZ98765432109876543210,SWIFT678,ANZ Bank
+11,Continental Suppliers,support@continentalsuppliers.com,+1122334455,123 Cedar St,10987,Hereville,Mexico,MX123456789,MX12345678901234567890,SWIFT123,Bancomer
+12,Dynamic Traders,info@dynamictraders.com,+1122334455,456 Pine St,87654,Everywhere,Brazil,BR987654321,BR98765432109876543210,SWIFT456,Banco do Brasil
+13,Golden Imports,golden@example.com,+1122334455,789 Oak St,54321,Somewhereville,China,CN123456789,CN12345678901234567890,SWIFT789,Industrial and Commercial Bank of China
+14,Atlantic Distributors,info@atlanticdist.com,+1122334455,321 Elm St,87654,Anyplaceville,India,IN987654321,IN98765432109876543210,SWIFT321,State Bank of India
+15,Master Traders,master@example.com,+1122334455,654 Cedar St,21098,Nowhereville,South Korea,KR123456789,KR12345678901234567890,SWIFT654,Kookmin Bank
+16,Swift Supplies,info@swiftsupplies.com,+1122334455,987 Pine St,54321,Herevilleville,Singapore,SG987654321,SG98765432109876543210,SWIFT987,DBS Bank
+17,Panorama Exports,sales@panoramaexports.com,+1122334455,234 Maple St,87654,Somewheretown,Russia,RU123456789,RU12345678901234567890,SWIFT234,Sberbank
+18,Sunrise Traders,contact@sunrisetraders.com,+1122334455,876 Birch St,10987,Anyplacevilleville,South Africa,ZA987654321,ZA98765432109876543210,SWIFT876,Standard Bank
+19,Everest Imports,info@everestimports.com,+1122334455,543 Pine St,21098,Nowheresville,Turkey,TR123456789,TR12345678901234567890,SWIFT543,Isbank
+20,Oceanic Suppliers,oceanic@example.com,+1122334455,678 Oak St,87654,Somewheretownville,Argentina,AR987654321,AR98765432109876543210,SWIFT678,Banco de la Nación Argentina
+21,Aura Trade,support@auratrade.com,+1122334455,123 Maple St,10987,Herevilletown,Belgium,BE123456789,BE12345678901234567890,SWIFT123,BNP Paribas Fortis
+22,Alpine Exports,info@alpineexports.com,+1122334455,456 Cedar St,21098,Nowheretownville,Chile,CL987654321,CL98765432109876543210,SWIFT456,Banco de Chile
+23,Global Ventures,global@example.com,+1122334455,789 Pine St,54321,Somewheretownvilleville,Dubai,AE123456789,AE12345678901234567890,SWIFT789,Emirates NBD
+24,Rapid Supplies,sales@rapidsupplies.com,+1122334455,321 Elm St,87654,Anyplacetownvilleville,Finland,FI987654321,FI98765432109876543210,SWIFT321,Nordea
+25,Horizon Traders,contact@horizontraders.com,+1122334455,654 Birch St,10987,Nowheretownvillevilleville,Greece,GR123456789,GR12345678901234567890,SWIFT654,National Bank of Greece
+26,Prime Exports,prime@example.com,+1122334455,987 Maple St,21098,Somewheretownvillevilleville,Hong Kong,HK987654321,HK98765432109876543210,SWIFT987,HSBC
+27,Pacific Suppliers,info@pacificsuppliers.com,+1122334455,234 Cedar St,54321,Herevilletownvilleville,Indonesia,ID123456789,ID12345678901234567890,SWIFT234,Bank Mandiri
+28,Dynamic Distributors,support@dynamicdist.com,+1122334455,876 Pine St,87654,Anyplacetownvillevilleville,Ireland,IE987654321,IE98765432109876543210,SWIFT876,AIB
+29,Metro Traders,info@metrotraders.com,+1122334455,543 Oak St,10987,Nowheretownvillevilleville,Israel,IL123456789,IL12345678901234567890,SWIFT543,Bank Hapoalim
+30,Pinnacle Imports,pinnacle@example.com,+1122334455,678 Birch St,21098,Somewheretownvillevilleville,Malaysia,MY987654321,MY98765432109876543210,SWIFT678,Malayan Banking Berhad
+31,Dynamic Solutions,info@dynamicsol.com,+1122334455,123 Cedar St,54321,Herevilletownvillevilleville,Mexico,MX123456789,MX12345678901234567890,SWIFT123,Banorte
+32,Summit Traders,support@summittraders.com,+1122334455,456 Pine St,87654,Anyplacetownvillevilleville,Netherlands,NL987654321,NL98765432109876543210,SWIFT456,ABN AMRO
+33,Golden Horizon,goldenhorizon@example.com,+1122334455,789 Oak St,10987,Nowheretownvillevilleville,Nigeria,NG123456789,NG12345678901234567890,SWIFT789,Access Bank
+34,Atlantic Exports,info@atlanticexports.com,+1122334455,321 Elm St,21098,Somewheretownvillevilleville,Norway,NO987654321,NO98765432109876543210,SWIFT321,DNB
+35,Elite Supplies,sales@elitesupplies.com,+1122334455,654 Cedar St,54321,Herevilletownvillevilleville,Pakistan,PK123456789,PK12345678901234567890,SWIFT654,MCB Bank
+36,Dynamic Imports,info@dynamicimports.com,+1122334455,987 Pine St,87654,Anyplacetownvillevilleville,Philippines,PH987654321,PH98765432109876543210,SWIFT987,BDO Unibank
+37,Sunrise Exports,sunrise@example.com,+1122334455,234 Maple St,10987,Nowheretownvillevilleville,Poland,PL123456789,PL12345678901234567890,SWIFT234,Bank Pekao
+38,Global Solutions,info@globalsol.com,+1122334455,876 Birch St,21098,Somewheretownvillevilleville,Portugal,PT987654321,PT98765432109876543210,SWIFT876,Millennium bcp
+39,Evergreen Traders,evergreen@example.com,+1122334455,543 Pine St,54321,Herevilletownvillevilleville,Romania,RO123456789,RO12345678901234567890,SWIFT543,Banca Transilvania
+40,Oceanic Imports,info@oceanicimports.com,+1122334455,678 Oak St,87654,Anyplacetownvillevilleville,Saudi Arabia,SA987654321,SA98765432109876543210,SWIFT678,Riyad Bank
+41,Aura Suppliers,aura@example.com,+1122334455,123 Maple St,10987,Nowheretownvillevilleville,Singapore,SG123456789,SG12345678901234567890,SWIFT123,DBS Bank
+42,Alpine Traders,info@alpinetraders.com,+1122334455,456 Cedar St,21098,Somewheretownvillevilleville,South Africa,ZA123456789,ZA12345678901234567890,SWIFT456,Standard Bank
+43,Global Exports,globalexports@example.com,+1122334455,789 Pine St,54321,Herevilletownvillevilleville,Spain,ES123456789,ES12345678901234567890,SWIFT789,Santander
+44,Rapid Traders,info@rapidtraders.com,+1122334455,321 Elm St,87654,Anyplacetownvillevilleville,Sweden,SE987654321,SE98765432109876543210,SWIFT321,Swedbank
+45,Horizon Exports,horizon@example.com,+1122334455,654 Birch St,10987,Nowheretownvillevilleville,Switzerland,CH123456789,CH12345678901234567890,SWIFT654,UBS
+46,Prime Suppliers,prime@example.com,+1122334455,987 Maple St,54321,Herevilletownvillevilleville,Taiwan,TW987654321,TW98765432109876543210,SWIFT987,Mega International Commercial Bank
+47,Pacific Traders,info@pacifictraders.com,+1122334455,234 Cedar St,21098,Somewheretownvillevilleville,Thailand,TH123456789,TH12345678901234567890,SWIFT234,Bangkok Bank
+48,Dynamic Exports,dynamic@example.com,+1122334455,876 Pine St,87654,Anyplacetownvillevilleville,Turkey,TR987654321,TR98765432109876543210,SWIFT876,Isbank
+49,Metro Imports,info@metroimports.com,+1122334455,543 Oak St,10987,Nowheretownvillevilleville,UAE,AE987654321,AE98765432109876543210,SWIFT543,Emirates NBD
+50,Pinnacle Traders,pinnacletraders@example.com,+1122334455,678 Birch St,21098,Somewheretownvillevilleville,UK,GB987654321,GB98765432109876543210,SWIFT678,NatWest

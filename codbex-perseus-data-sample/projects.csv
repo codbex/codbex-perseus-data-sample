@@ -1,0 +1,16 @@
+PROJECT_ID,PROJECT_NAME,PROJECT_CUSTOMER,PROJECT_STARTDATE,PROJECT_ENDDATE,PROJECT_COMPANY
+1,Website Redesign,5,2018-01-01,2018-07-01,8
+2,Inventory Management System,15,2018-02-01,,3
+3,Marketing Campaign,8,2018-03-01,,7
+4,Mobile App Development,20,2018-04-01,,2
+5,Customer Loyalty Program,12,2018-05-01,2018-11-01,6
+6,Product Launch,3,2018-06-01,,1
+7,Data Analytics Platform,18,2018-07-01,2019-01-01,5
+8,Supply Chain Optimization,7,2018-08-01,,9
+9,Employee Training Portal,10,2018-09-01,,4
+10,Market Research Initiative,25,2018-10-01,,10
+11,Corporate Intranet Upgrade,2,2018-11-01,2019-05-01,3
+12,Cloud Migration Project,23,2018-12-01,,8
+13,Customer Satisfaction Survey,14,2019-01-01,2019-07-01,1
+14,Green Energy Initiative,6,2019-02-01,,6
+15,Event Management Platform,17,2019-03-01,2019-09-01,2
